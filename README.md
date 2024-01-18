@@ -26,7 +26,7 @@ The Seneca Show is a web development project, inspired by YouTube, designed to o
    - Prioritizes a responsive design for an optimal viewing experience across devices.
 
 ## Technological Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, TailWind 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
   
