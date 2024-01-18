@@ -1,0 +1,42 @@
+<%- include('partials/header') %>
+
+  <body>
+
+    <%- include('partials/navbar') %>
+
+
+      <div>
+        <a href="/channels/new" class="btn btn-block w-full">Add New Channel</a>
+
+      </div>
+      <div class="flex items-center justify-between">
+        <% if (channels) { %>
+        <% channels.forEach((channel)=> { %>
+          <div class="card w-96 bg-base-100 shadow-xl">
+            <figure><img src="<%= channel.image %>" alt="Shoes" /></figure>
+            <div class="card-body">
+              <h2 class="card-title">
+                <%= channel.name %>
+              </h2>
+              <p>
+                <%= channel.genre %>
+              </p>
+              <div class="card-actions justify-end">
+                <a href="/videos/channel/<%=channel.channelID%>" class="btn btn-primary">Watch</a>
+                <button class="btn">Subscribe</button>
+              </div>
+            </div>
+          </div>
+
+          <% }) %>
+        <% } else { %>
+          <div class="card w-96 bg-base-100 shadow-xl">
+            <div class="card-body">
+              <h2 class="card-title">NO CHANNEL DATA AVAILABLE</h2>
+            </div>
+          </div>
+        <% } %>
+      </div>
+  </body>
+
+  </html>
