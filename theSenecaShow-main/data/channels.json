@@ -1,0 +1,26 @@
+[
+    {
+        "channelID": 1,
+        "name": "Seneca College",
+        "genre": "Education",
+        "image": "https://www.senecacollege.ca/content/dam/projects/seneca/seneca-logo.svg"
+    },
+    {
+        "channelID": 2,
+        "name": "Discovery Channel",
+        "genre": "Nature",
+        "image": "https://discovery.sndimg.com/content/dam/images/discovery/editorial/branding/2019/2/1/Discovery-default-search-image-4x3.jpg.rend.hgtvcom.616.462.suffix/1561760738182.jpeg"
+    },
+    {
+        "channelID": 3,
+        "name": "CBC News",
+        "genre": "News",
+        "image": "https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg"
+    }, 
+    {
+        "channelID": 4,
+        "name": "Cartoon Network",
+        "genre": "Kids",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png"
+    }
+]

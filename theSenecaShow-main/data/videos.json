@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "title":"First day at Seneca! [VLOG]",
+        "thumbnail": "https://i.ytimg.com/vi/wsxCAkDyl94/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBXHY7a6zlRRDJ3mZYye0KzjSbiQw",
+        "videoURL":"https://github.com",
+        "year": 2023,
+        "channelID": 1
+    },
+    {
+        "id":2,
+        "title":"Birds 4k",
+        "thumbnail": "https://i.pinimg.com/originals/81/89/25/818925c6ba99b9a2ce9f35b94c054420.png",
+        "videoURL":"https://github.com",
+        "channelID": 2,
+        "year": 2023
+    },
+    {
+        "id":5,
+        "title":"Crocodiles 4k",
+        "thumbnail": "https://i.ytimg.com/vi/BEvONEA6K9g/maxresdefault.jpg",
+        "videoURL":"https://github.com",
+        "channelID": 2,
+        "year": 2023
+    },
+    {
+        "id":3,
+        "title":"Gumball",
+        "thumbnail":"https://lh3.googleusercontent.com/G20mZRso5oNuRtXqFbxNdM-lcDQhXriZ2t1iwF4QBcRES-Qy3kOSmcrmI57TcFBa0AvqUYjT3I4UYQ=w299-h165-ns-nd-rj",
+        "channelID": 4,
+        "year": 2023
+    }
+]
